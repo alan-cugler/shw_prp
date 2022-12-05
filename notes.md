@@ -1,0 +1,30 @@
+
+- [ ] List root `Videos` directory
+- [ ] Check `Videos` list for files
+  - [ ] Check files for `.mkv` video extension
+    - [ ] make directory for `.mkv` files
+    - [ ] move `.mkv` files into directory
+  - [ ] Check for '.' directory
+    - [ ] remove '.' directory from list
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
+- [ ]  
